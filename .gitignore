@@ -1,4 +1,6 @@
-data
-datasets/addresso_backup
+datasets
+__pycache__
 .DS_Store
 .venv
+archive
+output*
