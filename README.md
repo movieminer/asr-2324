@@ -1,0 +1,1 @@
+This repository contains the code for the research of Thijs de Jong, in collaboration with Jen Dusseljee, for the (Automatic) Speech Recognition course of the Radboud University. The research is about exploring machine learning models for Alzheimer's Disease classification, based on speech data from the ADReSS 2020 Challenge.
